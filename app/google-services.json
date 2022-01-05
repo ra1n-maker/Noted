@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903068680379",
+    "project_id": "noted-dab76",
+    "storage_bucket": "noted-dab76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903068680379:android:13faccd8e1660ee530e99e",
+        "android_client_info": {
+          "package_name": "com.aditox.noted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903068680379-kpb56g8d4mg9mgank3ebfg65bguf74eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPlVtON8sdTMBgFOf3Cj69xefQHzNY14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903068680379-kpb56g8d4mg9mgank3ebfg65bguf74eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
